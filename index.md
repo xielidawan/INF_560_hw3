@@ -2,9 +2,10 @@
 MyWonder is a platform for big data analytics and visualization. This thing allows the user to create visualization base on the vast amount of data in 10 minutes while before needs for waiting about hours. Also, we use cloud technology to store the data, allowing users to do the analysis and summaries on the mobile device easily.
 
 # The Identified Wastes
-Skills: Users need to spend time to check the term which show in our app
-Waiting: The customer needs to wait until the boss get the responding from customer assistance.
-Transport: After called customer assistance, the customer assistance needs to talk with the designer, who then meet with the developer, that only the backend team could do the updating.
+	Skills: Users need to spend time to check the term which shows in our app
+	Waiting: The customer needs to wait until the boss gets the responding from customer assistance.
+	Transport: After called customer assistance, the customer assistance needs to talk with the designer, who then meets with the developer, that only the backend team could do the updating.
+
 
 # Deliverables 
 Separating testing and production environments
