@@ -19,4 +19,4 @@ Adding things to documentation
 Mid October Release(release MyWonder)
 
 # the Gantt diagram
-https://user-images.githubusercontent.com/54834260/95720181-bed6bf00-0c25-11eb-954c-05c8de9bab1e.png
+![get](https://user-images.githubusercontent.com/54834260/95720181-bed6bf00-0c25-11eb-954c-05c8de9bab1e.png)
